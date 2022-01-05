@@ -8,4 +8,4 @@
 testforhacking/testforhacking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-(t.me/TDDDDDT)[TELEGRAM]
+(TELEGRAM)[t.me/TDDDDDT] 
